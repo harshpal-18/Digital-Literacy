@@ -1,27 +1,20 @@
-## 📊 Task 1 – Digital Literacy Infographic
+# Task 1 – Digital Literacy Awareness Infographic
 
-For Task 1, I used Canva to design a one-page Digital Literacy infographic titled **"Digital Literacy for Students."** Canva was chosen because it is free, browser-based, and offers a wide range of templates and icons that made it easy to create a visually appealing design without any prior graphic design experience.
-
----
-
-### 🧠 Overview of the Infographic
-
-My infographic covers four key sections:
-
-- **📌 What is Digital Literacy**  
-  The first section explains what Digital Literacy means — the ability to use digital devices, the internet, and online platforms effectively and safely.
-
-- **🛠 Useful Digital Tools**  
-  The second section highlights useful digital tools for students, including Google Docs, Canva, GitHub, and Zoom/Google Meet, along with a brief description of each.
-
-- **🔐 Safe Internet Practices**  
-  The third section focuses on safe internet practices such as using strong passwords, never sharing OTPs, avoiding suspicious links, and using only HTTPS websites.
-
-- **💼 Professional Online Presence**  
-  The fourth section covers building a professional online presence — creating complete profiles, communicating professionally, keeping social media clean, and showcasing skills.
+**Module 1 | 20 Marks**
+**Harsh Pal | Reg No.: 25BCY10039 | B.Tech CSE | VIT Bhopal University**
 
 ---
 
-### 💡 Reflection
+## Tool Used
+Canva (canva.com)
 
-One thing I found particularly interesting while making this infographic was deciding how to present technical safety tips in a simple, visual way so that any student could understand them at a glance. Balancing text length with visual clarity was a challenge, but it taught me how effective design can make information more accessible and engaging.
+## About the Infographic
+The infographic is titled **"Digital Literacy for Students"** and covers four key topics:
+
+1. **What is Digital Literacy** – Definition and importance for students
+2. **Useful Digital Tools** – Google Docs, Canva, GitHub, Zoom/Google Meet
+3. **Safe Internet Practices** – Strong passwords, avoiding OTPs sharing, suspicious links, HTTPS
+4. **Professional Online Presence** – Building profiles, professional communication, showcasing skills
+
+## File in this folder
+- `digital-literacy-infographic.png` – Exported infographic design
