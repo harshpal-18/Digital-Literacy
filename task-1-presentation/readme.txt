@@ -1,3 +1,27 @@
-For Task 1, I used Canva to design a one-page Digital Literacy infographic titled "Digital Literacy for Students." Canva was chosen because it is free, browser-based, and offers a wide range of templates and icons that made it easy to create a visually appealing design without any prior graphic design experience.
-My infographic covers four key sections. The first section explains what Digital Literacy means — the ability to use digital devices, the internet, and online platforms effectively and safely. The second section highlights useful digital tools for students, including Google Docs, Canva, GitHub, and Zoom/Google Meet, along with a brief description of each. The third section focuses on safe internet practices such as using strong passwords, never sharing OTPs, avoiding suspicious links, and using only HTTPS websites. The fourth section covers building a professional online presence — creating complete profiles, communicating professionally, keeping social media clean, and showcasing skills.
+## 📊 Task 1 – Digital Literacy Infographic
+
+For Task 1, I used Canva to design a one-page Digital Literacy infographic titled **"Digital Literacy for Students."** Canva was chosen because it is free, browser-based, and offers a wide range of templates and icons that made it easy to create a visually appealing design without any prior graphic design experience.
+
+---
+
+### 🧠 Overview of the Infographic
+
+My infographic covers four key sections:
+
+- **📌 What is Digital Literacy**  
+  The first section explains what Digital Literacy means — the ability to use digital devices, the internet, and online platforms effectively and safely.
+
+- **🛠 Useful Digital Tools**  
+  The second section highlights useful digital tools for students, including Google Docs, Canva, GitHub, and Zoom/Google Meet, along with a brief description of each.
+
+- **🔐 Safe Internet Practices**  
+  The third section focuses on safe internet practices such as using strong passwords, never sharing OTPs, avoiding suspicious links, and using only HTTPS websites.
+
+- **💼 Professional Online Presence**  
+  The fourth section covers building a professional online presence — creating complete profiles, communicating professionally, keeping social media clean, and showcasing skills.
+
+---
+
+### 💡 Reflection
+
 One thing I found particularly interesting while making this infographic was deciding how to present technical safety tips in a simple, visual way so that any student could understand them at a glance. Balancing text length with visual clarity was a challenge, but it taught me how effective design can make information more accessible and engaging.
