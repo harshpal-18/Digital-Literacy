@@ -1,21 +1,25 @@
-## 📧 Task 4 – Professional Email and Etiquette Guide
+# Task 4 – Professional Email and Etiquette Guide
 
-Task 4 focused on professional digital communication. I drafted two formal emails and created a Social Media Do's and Don'ts checklist.
-
----
-
-### ✉️ Email Writing
-
-The first email was addressed to a professor requesting a deadline extension for a submission, written with a polite tone, clear subject line, and structured body.  
-
-The second email was addressed to an internship coordinator expressing interest in a summer internship opportunity, maintaining a formal and enthusiastic tone while briefly highlighting relevant skills.
+**Module 4 | 20 Marks**
+**Harsh Pal | Reg No.: 25BCY10039 | B.Tech CSE | VIT Bhopal University**
 
 ---
 
-### ⚠️ Real-Life Scenario & Learning
+## Part A – Professional Email Drafts
 
-A situation that highlights the importance of digital communication is when a student once posted frustration about a faculty member on a public social media account. The post quickly reached the institution's management, resulting in disciplinary action.  
+### Email 1 – Deadline Extension Request
+- **To:** Professor
+- **Subject:** Request for Assignment Submission Deadline Extension
+- **Purpose:** Politely requesting extra time for assignment submission
 
-This could have been avoided by addressing the concern privately and professionally — either through a direct email to the faculty member or by approaching the student grievance cell.  
+### Email 2 – Internship Interest
+- **To:** Internship Coordinator
+- **Subject:** Application for Summer Internship Opportunity – B.Tech CSE Student
+- **Purpose:** Expressing interest in a summer internship opportunity
 
-This scenario reinforced for me that anything posted online is permanent and publicly visible, and that professional channels must always be preferred for academic concerns.
+## Part B – Social Media Checklist
+A checklist of 7 Do's and 7 Don'ts for responsible social media use as a college student.
+
+## Files in this folder
+- `task4_email_drafts.docx` – Both professional email drafts
+- `social-media-checklist.md` – Social media Do's and Don'ts checklist
