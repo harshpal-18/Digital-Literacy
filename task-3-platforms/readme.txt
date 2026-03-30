@@ -16,7 +16,7 @@
 - **Form Title:** Digital Literacy Awareness Quiz
 - **No. of Questions:** 5 (Multiple choice + Short answer)
 
-🔗 **Quiz Link:** [Click here to take the quiz](#) ← replace with your form link
+🔗 **Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLScnsb1wFqy7o6XohIPM0p3x_rAJKmDtAxxrpk2fD4emz_Uojw/viewform?usp=dialog
 
 ## Files in this folder
 - `hackerrank-challenge.png` – Screenshot of completed challenge
